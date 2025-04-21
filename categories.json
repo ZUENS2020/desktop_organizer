@@ -1,0 +1,10 @@
+﻿{
+  "subjects": ["数学", "语文", "英语", "物理", "化学", "生物"],
+  "custom_categories": [],
+  "ext_map": {
+    ".jpg": "图片",
+    ".pdf": "文档",
+    ".mp4": "视频"
+  },
+  "default_folder": "其他"
+}

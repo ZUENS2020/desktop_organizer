@@ -1,0 +1,6 @@
+{
+  "api_base": "YOUR _API_BASE",
+  "api_key": "YOUR_API_KEY",
+  "api_model": "gpt-4o-mini",
+  "max_ai_size": 1048576
+}
