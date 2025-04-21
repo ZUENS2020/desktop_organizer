@@ -1,4 +1,4 @@
-# organize_desktop
+# desktop_organizer
 # 桌面整理工具
 
 该工具帮助自动根据预定义的分类和文件扩展名整理桌面上的文件。对于不符合现有分类的文件，它会使用 AI 模型来进行分类。
@@ -51,7 +51,7 @@
 
 通过执行 Python 脚本来运行工具：
 ```bash
-python organize_desktop.py
+python desktop_organizer.py
 ```
 
 工具将显示一个菜单，提供以下选项：
